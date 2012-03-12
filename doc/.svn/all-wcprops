@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/opensuse/!svn/ver/7538/trunk/tools/webpin/doc
+END
+webpin.man.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opensuse/!svn/ver/7538/trunk/tools/webpin/doc/webpin.man.in
+END
+webpinrc.5
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/opensuse/!svn/ver/7537/trunk/tools/webpin/doc/webpinrc.5
+END
